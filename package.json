@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-app-stream",
-  "version": "1.70.0-master",
+  "version": "1.70.0-release-pkg-app-prod",
   "description": "Base for modules in node.",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-app-stream.git",
@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "performance-now": "^2.1.0",
-    "@nebulario/tracker-app-events": "1.70.0-master",
+    "@nebulario/tracker-app-events": "1.70.0-release-pkg-app-prod",
     "@nebulario/tracker-app-ui": "1.70.0-master"
   },
   "peerDependencies": {
