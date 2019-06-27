@@ -2,17 +2,17 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-app-events@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-events/-/tracker-app-events-1.70.2-master.tgz#94549c9455c75da1381b00361ca5ebe730780e1f"
-  integrity sha512-hEKaLiKDFzZhvLt+lkePBTEEo1Lg1PL1ymGQ5LqVRI6pt++UYXkqrohbZBRpEvYNr6Y5nFm167kAsaabNFHHYQ==
+"@nebulario/tracker-app-events@1.70.0-release-public-pkg-prod":
+  version "1.70.0-release-public-pkg-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-events/-/tracker-app-events-1.70.0-release-public-pkg-prod.tgz#4d2502575f86a6127e2b06486a74359f3e3c1dba"
+  integrity sha512-jAUpBaoA4mVpyXbM9EMHaJ5GkaZWRKE+rnbu0vD2Nu6FKyyxqVuXLtWuoiQTo459XbRAVtZ7etI+bXuj9yua0g==
   dependencies:
     performance-now "^2.1.0"
 
-"@nebulario/tracker-app-ui@1.70.1-master":
-  version "1.70.1-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-ui/-/tracker-app-ui-1.70.1-master.tgz#8fe8fa224035688d6ad221fcb4e5d083ac1f0aa4"
-  integrity sha512-4rveaU0OMC74MLQv6rU4lWdRzyHcKDfxenx/hZZMee7xquInS7Zm60Jc8tPHhcMeXyn4fMjmQ2DuNSFGuF/N/A==
+"@nebulario/tracker-app-ui@1.70.0-release-public-pkg-prod":
+  version "1.70.0-release-public-pkg-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-ui/-/tracker-app-ui-1.70.0-release-public-pkg-prod.tgz#b0a66473f5223f71ee2daffe79f71ad95fccbae8"
+  integrity sha512-zyYja/nLuI4CNdDgFlFDtRLCUWr1K6UZ0Js/2/3lSGpJ3a8Dr8s+d7TMy46CrOMpVSCJkTE9y0cbLT/o635xCA==
   dependencies:
     moment "^2.22.1"
     performance-now "^2.1.0"
