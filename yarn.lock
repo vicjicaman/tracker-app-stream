@@ -9,10 +9,10 @@
   dependencies:
     performance-now "^2.1.0"
 
-"@nebulario/tracker-app-ui@1.70.0-master":
-  version "1.70.0-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-ui/-/tracker-app-ui-1.70.0-master.tgz#2be68057fbf4cf870256684ef5cfa6f591b9e0f3"
-  integrity sha512-1tyFpWTdn5krlf026ideRfN75vJjBktU+xfhx7DRIngH+ZLGm07pKA9ZlvZ7kYru3WPZV6T3JdIajA9F3x0DkQ==
+"@nebulario/tracker-app-ui@1.70.1-master":
+  version "1.70.1-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-ui/-/tracker-app-ui-1.70.1-master.tgz#8fe8fa224035688d6ad221fcb4e5d083ac1f0aa4"
+  integrity sha512-4rveaU0OMC74MLQv6rU4lWdRzyHcKDfxenx/hZZMee7xquInS7Zm60Jc8tPHhcMeXyn4fMjmQ2DuNSFGuF/N/A==
   dependencies:
     moment "^2.22.1"
     performance-now "^2.1.0"
